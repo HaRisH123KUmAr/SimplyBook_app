@@ -1,2 +1,2 @@
-#SimplyBook_app
+#SimplyBook
 Put the image get the book 
